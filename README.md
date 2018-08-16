@@ -4,7 +4,7 @@ This repository holds the Jupyter notebook developed to identify Pulsar stars fr
 
 The repository is mainly having the following files:
 
-## DeepNN.py
+### DeepNN.py
 
 •	Includes all the necessary functions required to implment the Neural Network. 
 
@@ -19,7 +19,7 @@ The repository is mainly having the following files:
 •	Predict function is also implemented to compute the accuracy of the model over training/test sets.
 
 
-## PulsarPrediction.ipynb
+### PulsarPrediction.ipynb
 
 •	Implemented the Neural Network model over a Pulsar stars dataset obtained from: https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star.
 
@@ -32,12 +32,12 @@ The repository is mainly having the following files:
 •	Working on improving the accuracy of the model through hyperparameter tuning and other techniques.
 
 
-## dnn_utils.py
+### dnn_utils.py
 
 •	Includes the code to compute the math behind the sigmoid and relu activation functions.
 
 
-## pulsar_stars.csv
+### pulsar_stars.csv
 
 •	The dataset used to implement the Neural Network.
 
