@@ -6,8 +6,11 @@ The repository is mainly having the following files:
 
 DeepNN.py
 •	Includes all the necessary functions required to implment the Neural Network. 
+
 •	ReLu activation function is choosen for the hidden layers whereas the Output layer computes sigmoid activation function.
+
 •	Log Loss function is used to compute the Cost.
+
 •	Backward propagation is implemented using Gradient Descent to facilitate the learning process.
 •	The default learning rate is set to 0.0075 and the default number of iterations are 3000.
 •	Predict function is also implemented to compute the accuracy of the model over training/test sets.
